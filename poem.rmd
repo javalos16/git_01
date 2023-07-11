@@ -15,7 +15,15 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
-
+One, two! One, two! And through and through    
+      The vorpal blade went snicker-snack!      
+He left it dead, and with its head      
+      He went galumphing back.      
+   
+“And hast thou slain the Jabberwock?      
+      Come to my arms, my beamish boy!      
+O frabjous day! Callooh! Callay!”  
+  
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
